@@ -11,7 +11,6 @@ jobs:
     permissions:
       contents: write
 
-    # >>> CHANGE THIS to the real path to your .py file in the repo
     env:
       SCRIPT_PATH: "tmdb_trending_starter copy.py"
 
