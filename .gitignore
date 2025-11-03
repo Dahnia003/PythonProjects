@@ -1,0 +1,8 @@
+# Ignore raw API JSON snapshots but keep clean CSVs
+data/*_raw_*.json
+
+# Ignore virtual environments and editor files
+.venv/
+.vscode/
+__pycache__/
+*.pyc
