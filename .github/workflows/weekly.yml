@@ -2,7 +2,7 @@ name: TMDB Weekly Snapshot
 
 on:
   schedule:
-    - cron: "0 12 * * 1"   # Monday 12:00 UTC
+    - cron: "30 13 * * 0"    # Monday 12:00 UTC
   workflow_dispatch: {}
 
 jobs:
