@@ -1,8 +1,8 @@
-# Ignore raw API JSON snapshots but keep clean CSVs
+# Raw JSON snapshots do not need to be versioned
 data/*_raw_*.json
 
-# Ignore virtual environments and editor files
-.venv/
-.vscode/
-__pycache__/
-*.pyc
+# Optional, if you do not care about these history files in git:
+# data/sample_cast_counts_*.csv
+
+# R plot file
+Rplots.pdf
