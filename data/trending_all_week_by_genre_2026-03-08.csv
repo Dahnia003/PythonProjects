@@ -1,0 +1,253 @@
+id,media_type,title,date,popularity,vote_average,vote_count,original_language,genres,week,genre
+1265609,movie,War Machine,2026-02-12,415.4914,6.9,251,en,Action; Science Fiction; Thriller,2026-03-08,Action
+1265609,movie,War Machine,2026-02-12,415.4914,6.9,251,en,Action; Science Fiction; Thriller,2026-03-08,Science Fiction
+1265609,movie,War Machine,2026-02-12,415.4914,6.9,251,en,Action; Science Fiction; Thriller,2026-03-08,Thriller
+1290821,movie,Shelter,2026-01-28,373.401,6.746,242,en,Action; Crime; Thriller,2026-03-08,Action
+1290821,movie,Shelter,2026-01-28,373.401,6.746,242,en,Action; Crime; Thriller,2026-03-08,Crime
+1290821,movie,Shelter,2026-01-28,373.401,6.746,242,en,Action; Crime; Thriller,2026-03-08,Thriller
+799882,movie,The Bluff,2026-02-17,250.1719,6.244,215,en,Action; Thriller,2026-03-08,Action
+799882,movie,The Bluff,2026-02-17,250.1719,6.244,215,en,Action; Thriller,2026-03-08,Thriller
+456,tv,The Simpsons,1989-12-17,241.3155,8.0,10603,en,Family; Animation; Comedy,2026-03-08,Family
+456,tv,The Simpsons,1989-12-17,241.3155,8.0,10603,en,Family; Animation; Comedy,2026-03-08,Animation
+456,tv,The Simpsons,1989-12-17,241.3155,8.0,10603,en,Family; Animation; Comedy,2026-03-08,Comedy
+79744,tv,The Rookie,2018-10-16,238.3444,8.536,3019,en,Crime; Drama; Comedy,2026-03-08,Crime
+79744,tv,The Rookie,2018-10-16,238.3444,8.536,3019,en,Crime; Drama; Comedy,2026-03-08,Drama
+79744,tv,The Rookie,2018-10-16,238.3444,8.536,3019,en,Crime; Drama; Comedy,2026-03-08,Comedy
+1434,tv,Family Guy,1999-01-31,184.7129,7.4,4823,en,Animation; Comedy,2026-03-08,Animation
+1434,tv,Family Guy,1999-01-31,184.7129,7.4,4823,en,Animation; Comedy,2026-03-08,Comedy
+91239,tv,Bridgerton,2020-12-25,182.5431,8.074,3209,en,Drama,2026-03-08,Drama
+255661,tv,Young Sherlock,2026-03-04,180.2122,8.2,62,en,Action & Adventure; Mystery,2026-03-08,Action & Adventure
+255661,tv,Young Sherlock,2026-03-04,180.2122,8.2,62,en,Action & Adventure; Mystery,2026-03-08,Mystery
+680493,movie,Return to Silent Hill,2026-01-21,160.9873,5.0,252,en,Mystery; Drama; Horror,2026-03-08,Mystery
+680493,movie,Return to Silent Hill,2026-01-21,160.9873,5.0,252,en,Mystery; Drama; Horror,2026-03-08,Drama
+680493,movie,Return to Silent Hill,2026-01-21,160.9873,5.0,252,en,Mystery; Drama; Horror,2026-03-08,Horror
+95479,tv,JUJUTSU KAISEN,2020-10-03,154.5779,8.557,4235,ja,Animation; Action & Adventure; Sci-Fi & Fantasy,2026-03-08,Animation
+95479,tv,JUJUTSU KAISEN,2020-10-03,154.5779,8.557,4235,ja,Animation; Action & Adventure; Sci-Fi & Fantasy,2026-03-08,Action & Adventure
+95479,tv,JUJUTSU KAISEN,2020-10-03,154.5779,8.557,4235,ja,Animation; Action & Adventure; Sci-Fi & Fantasy,2026-03-08,Sci-Fi & Fantasy
+290856,tv,Marshals,2026-03-01,152.4587,8.0,50,en,Drama; Western,2026-03-08,Drama
+290856,tv,Marshals,2026-03-01,152.4587,8.0,50,en,Drama; Western,2026-03-08,Western
+1159559,movie,Scream 7,2026-02-25,151.1317,6.0,254,en,Horror; Mystery; Crime,2026-03-08,Horror
+1159559,movie,Scream 7,2026-02-25,151.1317,6.0,254,en,Horror; Mystery; Crime,2026-03-08,Mystery
+1159559,movie,Scream 7,2026-02-25,151.1317,6.0,254,en,Horror; Mystery; Crime,2026-03-08,Crime
+66732,tv,Stranger Things,2016-07-15,148.9988,8.576,20791,en,Sci-Fi & Fantasy; Mystery; Action & Adventure,2026-03-08,Sci-Fi & Fantasy
+66732,tv,Stranger Things,2016-07-15,148.9988,8.576,20791,en,Sci-Fi & Fantasy; Mystery; Action & Adventure,2026-03-08,Mystery
+66732,tv,Stranger Things,2016-07-15,148.9988,8.576,20791,en,Sci-Fi & Fantasy; Mystery; Action & Adventure,2026-03-08,Action & Adventure
+224372,tv,A Knight of the Seven Kingdoms,2026-01-18,141.5192,8.446,626,en,Drama; Sci-Fi & Fantasy; Action & Adventure,2026-03-08,Drama
+224372,tv,A Knight of the Seven Kingdoms,2026-01-18,141.5192,8.446,626,en,Drama; Sci-Fi & Fantasy; Action & Adventure,2026-03-08,Sci-Fi & Fantasy
+224372,tv,A Knight of the Seven Kingdoms,2026-01-18,141.5192,8.446,626,en,Drama; Sci-Fi & Fantasy; Action & Adventure,2026-03-08,Action & Adventure
+1236153,movie,Mercy,2026-01-20,135.0507,7.067,671,en,Science Fiction; Action; Thriller,2026-03-08,Science Fiction
+1236153,movie,Mercy,2026-01-20,135.0507,7.067,671,en,Science Fiction; Action; Thriller,2026-03-08,Action
+1236153,movie,Mercy,2026-01-20,135.0507,7.067,671,en,Science Fiction; Action; Thriller,2026-03-08,Thriller
+1084242,movie,Zootopia 2,2025-11-26,128.6089,7.612,1976,en,Animation; Comedy; Adventure; Family; Mystery,2026-03-08,Animation
+1084242,movie,Zootopia 2,2025-11-26,128.6089,7.612,1976,en,Animation; Comedy; Adventure; Family; Mystery,2026-03-08,Comedy
+1084242,movie,Zootopia 2,2025-11-26,128.6089,7.612,1976,en,Animation; Comedy; Adventure; Family; Mystery,2026-03-08,Adventure
+1084242,movie,Zootopia 2,2025-11-26,128.6089,7.612,1976,en,Animation; Comedy; Adventure; Family; Mystery,2026-03-08,Family
+1084242,movie,Zootopia 2,2025-11-26,128.6089,7.612,1976,en,Animation; Comedy; Adventure; Family; Mystery,2026-03-08,Mystery
+840464,movie,Greenland 2: Migration,2026-01-07,125.4984,6.5,558,en,Adventure; Thriller; Science Fiction,2026-03-08,Adventure
+840464,movie,Greenland 2: Migration,2026-01-07,125.4984,6.5,558,en,Adventure; Thriller; Science Fiction,2026-03-08,Thriller
+840464,movie,Greenland 2: Migration,2026-01-07,125.4984,6.5,558,en,Adventure; Thriller; Science Fiction,2026-03-08,Science Fiction
+1327819,movie,Hoppers,2026-03-04,121.0597,7.727,86,en,Animation; Family; Comedy; Science Fiction; Adventure,2026-03-08,Animation
+1327819,movie,Hoppers,2026-03-04,121.0597,7.727,86,en,Animation; Family; Comedy; Science Fiction; Adventure,2026-03-08,Family
+1327819,movie,Hoppers,2026-03-04,121.0597,7.727,86,en,Animation; Family; Comedy; Science Fiction; Adventure,2026-03-08,Comedy
+1327819,movie,Hoppers,2026-03-04,121.0597,7.727,86,en,Animation; Family; Comedy; Science Fiction; Adventure,2026-03-08,Science Fiction
+1327819,movie,Hoppers,2026-03-04,121.0597,7.727,86,en,Animation; Family; Comedy; Science Fiction; Adventure,2026-03-08,Adventure
+281016,tv,Boyfriend on Demand,2026-03-06,120.9321,8.8,24,ko,Comedy; Sci-Fi & Fantasy; Drama,2026-03-08,Comedy
+281016,tv,Boyfriend on Demand,2026-03-06,120.9321,8.8,24,ko,Comedy; Sci-Fi & Fantasy; Drama,2026-03-08,Sci-Fi & Fantasy
+281016,tv,Boyfriend on Demand,2026-03-06,120.9321,8.8,24,ko,Comedy; Sci-Fi & Fantasy; Drama,2026-03-08,Drama
+83533,movie,Avatar: Fire and Ash,2025-12-17,112.5888,7.27,1866,en,Science Fiction; Adventure; Fantasy,2026-03-08,Science Fiction
+83533,movie,Avatar: Fire and Ash,2025-12-17,112.5888,7.27,1866,en,Science Fiction; Adventure; Fantasy,2026-03-08,Adventure
+83533,movie,Avatar: Fire and Ash,2025-12-17,112.5888,7.27,1866,en,Science Fiction; Adventure; Fantasy,2026-03-08,Fantasy
+1419406,movie,The Shadow's Edge,2025-08-16,111.5835,7.2,475,zh,Action; Crime; Drama; Thriller,2026-03-08,Action
+1419406,movie,The Shadow's Edge,2025-08-16,111.5835,7.2,475,zh,Action; Crime; Drama; Thriller,2026-03-08,Crime
+1419406,movie,The Shadow's Edge,2025-08-16,111.5835,7.2,475,zh,Action; Crime; Drama; Thriller,2026-03-08,Drama
+1419406,movie,The Shadow's Edge,2025-08-16,111.5835,7.2,475,zh,Action; Crime; Drama; Thriller,2026-03-08,Thriller
+202411,tv,Monarch: Legacy of Monsters,2023-11-16,106.1171,7.683,1068,en,Sci-Fi & Fantasy; Drama; Action & Adventure,2026-03-08,Sci-Fi & Fantasy
+202411,tv,Monarch: Legacy of Monsters,2023-11-16,106.1171,7.683,1068,en,Sci-Fi & Fantasy; Drama; Action & Adventure,2026-03-08,Drama
+202411,tv,Monarch: Legacy of Monsters,2023-11-16,106.1171,7.683,1068,en,Sci-Fi & Fantasy; Drama; Action & Adventure,2026-03-08,Action & Adventure
+1159831,movie,The Bride!,2026-03-04,99.3127,6.5,89,en,Science Fiction; Horror; Comedy,2026-03-08,Science Fiction
+1159831,movie,The Bride!,2026-03-04,99.3127,6.5,89,en,Science Fiction; Horror; Comedy,2026-03-08,Horror
+1159831,movie,The Bride!,2026-03-04,99.3127,6.5,89,en,Science Fiction; Horror; Comedy,2026-03-08,Comedy
+1368166,movie,The Housemaid,2025-12-18,94.761,7.3,1431,en,Drama; Mystery; Thriller,2026-03-08,Drama
+1368166,movie,The Housemaid,2025-12-18,94.761,7.3,1431,en,Drama; Mystery; Thriller,2026-03-08,Mystery
+1368166,movie,The Housemaid,2025-12-18,94.761,7.3,1431,en,Drama; Mystery; Thriller,2026-03-08,Thriller
+56570,tv,Outlander,2014-08-09,92.0933,8.178,2779,en,Drama; Sci-Fi & Fantasy,2026-03-08,Drama
+56570,tv,Outlander,2014-08-09,92.0933,8.178,2779,en,Drama; Sci-Fi & Fantasy,2026-03-08,Sci-Fi & Fantasy
+300054,tv,BAKI-DOU: The Invincible Samurai,2026-02-26,89.1569,9.156,16,ja,Animation; Action & Adventure,2026-03-08,Animation
+300054,tv,BAKI-DOU: The Invincible Samurai,2026-02-26,89.1569,9.156,16,ja,Animation; Action & Adventure,2026-03-08,Action & Adventure
+285739,tv,Vladimir,2026-03-05,87.0165,7.962,26,en,Drama,2026-03-08,Drama
+696393,movie,Cold Storage,2026-01-22,84.7263,6.548,85,en,Horror; Science Fiction; Comedy,2026-03-08,Horror
+696393,movie,Cold Storage,2026-01-22,84.7263,6.548,85,en,Horror; Science Fiction; Comedy,2026-03-08,Science Fiction
+696393,movie,Cold Storage,2026-01-22,84.7263,6.548,85,en,Horror; Science Fiction; Comedy,2026-03-08,Comedy
+201834,tv,ted,2024-01-11,84.1331,7.9,573,en,Comedy,2026-03-08,Comedy
+76479,tv,The Boys,2019-07-25,81.9807,8.4,11646,en,Sci-Fi & Fantasy; Action & Adventure,2026-03-08,Sci-Fi & Fantasy
+76479,tv,The Boys,2019-07-25,81.9807,8.4,11646,en,Sci-Fi & Fantasy; Action & Adventure,2026-03-08,Action & Adventure
+1193501,movie,Whistle,2026-01-20,80.5399,5.849,96,en,Horror; Mystery,2026-03-08,Horror
+1193501,movie,Whistle,2026-01-20,80.5399,5.849,96,en,Horror; Mystery,2026-03-08,Mystery
+250307,tv,The Pitt,2025-01-09,78.8742,8.684,531,en,Drama,2026-03-08,Drama
+1272837,movie,28 Years Later: The Bone Temple,2026-01-14,78.8461,7.2,771,en,Horror; Thriller; Science Fiction,2026-03-08,Horror
+1272837,movie,28 Years Later: The Bone Temple,2026-01-14,78.8461,7.2,771,en,Horror; Thriller; Science Fiction,2026-03-08,Thriller
+1272837,movie,28 Years Later: The Bone Temple,2026-01-14,78.8461,7.2,771,en,Horror; Thriller; Science Fiction,2026-03-08,Science Fiction
+209867,tv,Frieren: Beyond Journey's End,2023-09-29,77.5167,8.769,713,ja,Animation; Action & Adventure; Drama; Sci-Fi & Fantasy,2026-03-08,Animation
+209867,tv,Frieren: Beyond Journey's End,2023-09-29,77.5167,8.769,713,ja,Animation; Action & Adventure; Drama; Sci-Fi & Fantasy,2026-03-08,Action & Adventure
+209867,tv,Frieren: Beyond Journey's End,2023-09-29,77.5167,8.769,713,ja,Animation; Action & Adventure; Drama; Sci-Fi & Fantasy,2026-03-08,Drama
+209867,tv,Frieren: Beyond Journey's End,2023-09-29,77.5167,8.769,713,ja,Animation; Action & Adventure; Drama; Sci-Fi & Fantasy,2026-03-08,Sci-Fi & Fantasy
+1242898,movie,Predator: Badlands,2025-11-05,77.3549,7.714,2291,en,Action; Science Fiction; Adventure,2026-03-08,Action
+1242898,movie,Predator: Badlands,2025-11-05,77.3549,7.714,2291,en,Action; Science Fiction; Adventure,2026-03-08,Science Fiction
+1242898,movie,Predator: Badlands,2025-11-05,77.3549,7.714,2291,en,Action; Science Fiction; Adventure,2026-03-08,Adventure
+245927,tv,Paradise,2025-01-26,65.2518,7.415,352,en,Crime; Drama,2026-03-08,Crime
+245927,tv,Paradise,2025-01-26,65.2518,7.415,352,en,Crime; Drama,2026-03-08,Drama
+1316092,movie,"""Wuthering Heights""",2026-02-11,64.9748,6.41,472,en,Romance; Drama,2026-03-08,Romance
+1316092,movie,"""Wuthering Heights""",2026-02-11,64.9748,6.41,472,en,Romance; Drama,2026-03-08,Drama
+273160,tv,The Beauty,2026-01-21,64.8328,6.086,87,en,Drama; Sci-Fi & Fantasy,2026-03-08,Drama
+273160,tv,The Beauty,2026-01-21,64.8328,6.086,87,en,Drama; Sci-Fi & Fantasy,2026-03-08,Sci-Fi & Fantasy
+310800,tv,Siren's Kiss,2026-03-02,60.6119,7.3,3,ko,Drama; Crime; Mystery,2026-03-08,Drama
+310800,tv,Siren's Kiss,2026-03-02,60.6119,7.3,3,ko,Drama; Crime; Mystery,2026-03-08,Crime
+310800,tv,Siren's Kiss,2026-03-02,60.6119,7.3,3,ko,Drama; Crime; Mystery,2026-03-08,Mystery
+241372,tv,56 Days,2026-02-18,60.1504,6.554,84,en,Drama; Crime; Mystery,2026-03-08,Drama
+241372,tv,56 Days,2026-02-18,60.1504,6.554,84,en,Drama; Crime; Mystery,2026-03-08,Crime
+241372,tv,56 Days,2026-02-18,60.1504,6.554,84,en,Drama; Crime; Mystery,2026-03-08,Mystery
+1306368,movie,The Rip,2026-01-13,59.0364,7.068,1327,en,Action; Thriller; Crime,2026-03-08,Action
+1306368,movie,The Rip,2026-01-13,59.0364,7.068,1327,en,Action; Thriller; Crime,2026-03-08,Thriller
+1306368,movie,The Rip,2026-01-13,59.0364,7.068,1327,en,Action; Thriller; Crime,2026-03-08,Crime
+1032892,movie,In the Blink of an Eye,2026-01-26,58.5106,4.767,60,en,Drama; Science Fiction,2026-03-08,Drama
+1032892,movie,In the Blink of an Eye,2026-01-26,58.5106,4.767,60,en,Drama; Science Fiction,2026-03-08,Science Fiction
+129552,tv,The Night Agent,2023-03-23,57.6755,7.722,1081,en,Action & Adventure; Drama; Mystery,2026-03-08,Action & Adventure
+129552,tv,The Night Agent,2023-03-23,57.6755,7.722,1081,en,Action & Adventure; Drama; Mystery,2026-03-08,Drama
+129552,tv,The Night Agent,2023-03-23,57.6755,7.722,1081,en,Action & Adventure; Drama; Mystery,2026-03-08,Mystery
+1317288,movie,Marty Supreme,2025-12-19,56.7651,7.504,1186,en,Drama,2026-03-08,Drama
+1054867,movie,One Battle After Another,2025-09-23,56.0876,7.408,3005,en,Thriller; Crime; Action,2026-03-08,Thriller
+1054867,movie,One Battle After Another,2025-09-23,56.0876,7.408,3005,en,Thriller; Crime; Action,2026-03-08,Crime
+1054867,movie,One Battle After Another,2025-09-23,56.0876,7.408,3005,en,Thriller; Crime; Action,2026-03-08,Action
+425274,movie,Now You See Me: Now You Don't,2025-11-12,55.5623,6.542,1180,en,Thriller; Crime,2026-03-08,Thriller
+425274,movie,Now You See Me: Now You Don't,2025-11-12,55.5623,6.542,1180,en,Thriller; Crime,2026-03-08,Crime
+1297842,movie,GOAT,2026-02-11,53.803,7.521,95,en,Animation; Comedy; Family,2026-03-08,Animation
+1297842,movie,GOAT,2026-02-11,53.803,7.521,95,en,Animation; Comedy; Family,2026-03-08,Comedy
+1297842,movie,GOAT,2026-02-11,53.803,7.521,95,en,Animation; Comedy; Family,2026-03-08,Family
+1234731,movie,Anaconda,2025-12-24,53.726,5.847,730,en,Adventure; Comedy; Horror; Action,2026-03-08,Adventure
+1234731,movie,Anaconda,2025-12-24,53.726,5.847,730,en,Adventure; Comedy; Horror; Action,2026-03-08,Comedy
+1234731,movie,Anaconda,2025-12-24,53.726,5.847,730,en,Adventure; Comedy; Horror; Action,2026-03-08,Horror
+1234731,movie,Anaconda,2025-12-24,53.726,5.847,730,en,Adventure; Comedy; Horror; Action,2026-03-08,Action
+1629382,movie,Street Flow 3,2026-03-04,52.3102,4.978,22,fr,Drama,2026-03-08,Drama
+111110,tv,ONE PIECE,2023-08-31,51.8987,8.118,1493,en,Action & Adventure; Sci-Fi & Fantasy,2026-03-08,Action & Adventure
+111110,tv,ONE PIECE,2023-08-31,51.8987,8.118,1493,en,Action & Adventure; Sci-Fi & Fantasy,2026-03-08,Sci-Fi & Fantasy
+117465,tv,Hell's Paradise,2023-04-01,51.7836,8.148,405,ja,Animation; Action & Adventure; Sci-Fi & Fantasy,2026-03-08,Animation
+117465,tv,Hell's Paradise,2023-04-01,51.7836,8.148,405,ja,Animation; Action & Adventure; Sci-Fi & Fantasy,2026-03-08,Action & Adventure
+117465,tv,Hell's Paradise,2023-04-01,51.7836,8.148,405,ja,Animation; Action & Adventure; Sci-Fi & Fantasy,2026-03-08,Sci-Fi & Fantasy
+858024,movie,Hamnet,2025-11-26,51.2174,7.733,901,en,Drama; Romance; History,2026-03-08,Drama
+858024,movie,Hamnet,2025-11-26,51.2174,7.733,901,en,Drama; Romance; History,2026-03-08,Romance
+858024,movie,Hamnet,2025-11-26,51.2174,7.733,901,en,Drama; Romance; History,2026-03-08,History
+106379,tv,Fallout,2024-04-10,47.7942,8.127,2641,en,Action & Adventure; Sci-Fi & Fantasy,2026-03-08,Action & Adventure
+106379,tv,Fallout,2024-04-10,47.7942,8.127,2641,en,Action & Adventure; Sci-Fi & Fantasy,2026-03-08,Sci-Fi & Fantasy
+95557,tv,Invincible,2021-03-25,44.883,8.614,5302,en,Animation; Sci-Fi & Fantasy; Action & Adventure; Drama,2026-03-08,Animation
+95557,tv,Invincible,2021-03-25,44.883,8.614,5302,en,Animation; Sci-Fi & Fantasy; Action & Adventure; Drama,2026-03-08,Sci-Fi & Fantasy
+95557,tv,Invincible,2021-03-25,44.883,8.614,5302,en,Animation; Sci-Fi & Fantasy; Action & Adventure; Drama,2026-03-08,Action & Adventure
+95557,tv,Invincible,2021-03-25,44.883,8.614,5302,en,Animation; Sci-Fi & Fantasy; Action & Adventure; Drama,2026-03-08,Drama
+798645,movie,The Running Man,2025-11-11,44.0979,6.79,1240,en,Action; Thriller; Science Fiction,2026-03-08,Action
+798645,movie,The Running Man,2025-11-11,44.0979,6.79,1240,en,Action; Thriller; Science Fiction,2026-03-08,Thriller
+798645,movie,The Running Man,2025-11-11,44.0979,6.79,1240,en,Action; Thriller; Science Fiction,2026-03-08,Science Fiction
+206828,tv,DTF St. Louis,2026-03-01,43.8019,4.2,13,en,Crime; Drama,2026-03-08,Crime
+206828,tv,DTF St. Louis,2026-03-01,43.8019,4.2,13,en,Crime; Drama,2026-03-08,Drama
+257992,tv,The Hunt,2026-03-04,42.4454,8.2,4,fr,Drama; Mystery,2026-03-08,Drama
+257992,tv,The Hunt,2026-03-04,42.4454,8.2,4,fr,Drama; Mystery,2026-03-08,Mystery
+313298,tv,The Dinosaurs,2026-03-06,42.3628,7.875,20,en,Documentary,2026-03-08,Documentary
+1233413,movie,Sinners,2025-04-16,42.076,7.5,3878,en,Horror; Action; Thriller,2026-03-08,Horror
+1233413,movie,Sinners,2025-04-16,42.076,7.5,3878,en,Horror; Action; Thriller,2026-03-08,Action
+1233413,movie,Sinners,2025-04-16,42.076,7.5,3878,en,Horror; Action; Thriller,2026-03-08,Thriller
+37854,tv,One Piece,1999-10-20,40.4606,8.725,5147,ja,Action & Adventure; Comedy; Animation,2026-03-08,Action & Adventure
+37854,tv,One Piece,1999-10-20,40.4606,8.725,5147,ja,Action & Adventure; Comedy; Animation,2026-03-08,Comedy
+37854,tv,One Piece,1999-10-20,40.4606,8.725,5147,ja,Action & Adventure; Comedy; Animation,2026-03-08,Animation
+804370,movie,Arco,2025-10-22,39.2079,7.536,110,fr,Animation; Adventure; Fantasy; Family; Drama; Science Fiction,2026-03-08,Animation
+804370,movie,Arco,2025-10-22,39.2079,7.536,110,fr,Animation; Adventure; Fantasy; Family; Drama; Science Fiction,2026-03-08,Adventure
+804370,movie,Arco,2025-10-22,39.2079,7.536,110,fr,Animation; Adventure; Fantasy; Family; Drama; Science Fiction,2026-03-08,Fantasy
+804370,movie,Arco,2025-10-22,39.2079,7.536,110,fr,Animation; Adventure; Fantasy; Family; Drama; Science Fiction,2026-03-08,Family
+804370,movie,Arco,2025-10-22,39.2079,7.536,110,fr,Animation; Adventure; Fantasy; Family; Drama; Science Fiction,2026-03-08,Drama
+804370,movie,Arco,2025-10-22,39.2079,7.536,110,fr,Animation; Adventure; Fantasy; Family; Drama; Science Fiction,2026-03-08,Science Fiction
+911430,movie,F1,2025-06-25,38.9408,7.765,3495,en,Action; Drama,2026-03-08,Action
+911430,movie,F1,2025-06-25,38.9408,7.765,3495,en,Action; Drama,2026-03-08,Drama
+223530,tv,Star Trek: Starfleet Academy,2026-01-15,38.9346,4.8,131,en,Sci-Fi & Fantasy; Action & Adventure,2026-03-08,Sci-Fi & Fantasy
+223530,tv,Star Trek: Starfleet Academy,2026-01-15,38.9346,4.8,131,en,Sci-Fi & Fantasy; Action & Adventure,2026-03-08,Action & Adventure
+279388,tv,Pursuit of Jade,2026-03-06,38.3601,5.0,5,zh,Drama,2026-03-08,Drama
+1062722,movie,Frankenstein,2025-10-17,37.8848,7.663,3064,en,Drama; Fantasy; Horror,2026-03-08,Drama
+1062722,movie,Frankenstein,2025-10-17,37.8848,7.663,3064,en,Drama; Fantasy; Horror,2026-03-08,Fantasy
+1062722,movie,Frankenstein,2025-10-17,37.8848,7.663,3064,en,Drama; Fantasy; Horror,2026-03-08,Horror
+1171145,movie,Crime 101,2026-02-11,36.6377,7.0,125,en,Crime; Thriller,2026-03-08,Crime
+1171145,movie,Crime 101,2026-02-11,36.6377,7.0,125,en,Crime; Thriller,2026-03-08,Thriller
+1273221,movie,Scary Movie,2026-06-05,36.3056,0.0,0,en,Comedy; Horror,2026-03-08,Comedy
+1273221,movie,Scary Movie,2026-06-05,36.3056,0.0,0,en,Comedy; Horror,2026-03-08,Horror
+198102,tv,Hijack,2023-06-28,33.6723,7.577,739,en,Drama,2026-03-08,Drama
+87083,tv,Formula 1: Drive to Survive,2019-03-08,33.5661,8.2,602,en,Documentary,2026-03-08,Documentary
+1010755,movie,The Strangers: Chapter 3,2026-02-05,32.0659,5.867,30,en,Horror; Thriller,2026-03-08,Horror
+1010755,movie,The Strangers: Chapter 3,2026-02-05,32.0659,5.867,30,en,Horror; Thriller,2026-03-08,Thriller
+1315303,movie,Primate,2026-01-01,31.8109,6.572,447,en,Horror; Thriller,2026-03-08,Horror
+1315303,movie,Primate,2026-01-01,31.8109,6.572,447,en,Horror; Thriller,2026-03-08,Thriller
+967941,movie,Wicked: For Good,2025-11-19,30.7636,6.6,855,en,Fantasy; Adventure; Romance,2026-03-08,Fantasy
+967941,movie,Wicked: For Good,2025-11-19,30.7636,6.6,855,en,Fantasy; Adventure; Romance,2026-03-08,Adventure
+967941,movie,Wicked: For Good,2025-11-19,30.7636,6.6,855,en,Fantasy; Adventure; Romance,2026-03-08,Romance
+295778,tv,Scrubs,2026-02-25,30.045,8.0,23,en,Comedy,2026-03-08,Comedy
+203737,tv,【OSHI NO KO】,2023-04-12,28.8786,8.3,303,ja,Animation; Drama,2026-03-08,Animation
+203737,tv,【OSHI NO KO】,2023-04-12,28.8786,8.3,303,ja,Animation; Drama,2026-03-08,Drama
+1226863,movie,The Super Mario Galaxy Movie,2026-04-01,27.6143,0.0,0,en,Family; Fantasy; Comedy; Adventure; Animation,2026-03-08,Family
+1226863,movie,The Super Mario Galaxy Movie,2026-04-01,27.6143,0.0,0,en,Family; Fantasy; Comedy; Adventure; Animation,2026-03-08,Fantasy
+1226863,movie,The Super Mario Galaxy Movie,2026-04-01,27.6143,0.0,0,en,Family; Fantasy; Comedy; Adventure; Animation,2026-03-08,Comedy
+1226863,movie,The Super Mario Galaxy Movie,2026-04-01,27.6143,0.0,0,en,Family; Fantasy; Comedy; Adventure; Animation,2026-03-08,Adventure
+1226863,movie,The Super Mario Galaxy Movie,2026-04-01,27.6143,0.0,0,en,Family; Fantasy; Comedy; Adventure; Animation,2026-03-08,Animation
+1422562,movie,The Moment,2026-01-30,27.5822,5.87,27,en,Music; Comedy,2026-03-08,Music
+1422562,movie,The Moment,2026-01-30,27.5822,5.87,27,en,Music; Comedy,2026-03-08,Comedy
+136311,tv,Shrinking,2023-01-26,26.1279,7.805,543,en,Drama; Comedy,2026-03-08,Drama
+136311,tv,Shrinking,2023-01-26,26.1279,7.805,543,en,Drama; Comedy,2026-03-08,Comedy
+225171,tv,Pluribus,2025-11-06,25.9518,7.922,738,en,Drama; Sci-Fi & Fantasy,2026-03-08,Drama
+225171,tv,Pluribus,2025-11-06,25.9518,7.922,738,en,Drama; Sci-Fi & Fantasy,2026-03-08,Sci-Fi & Fantasy
+1078605,movie,Weapons,2025-08-04,25.5599,7.273,2999,en,Horror; Mystery,2026-03-08,Horror
+1078605,movie,Weapons,2025-08-04,25.5599,7.273,2999,en,Horror; Mystery,2026-03-08,Mystery
+687163,movie,Project Hail Mary,2026-03-09,24.9038,9.3,3,en,Science Fiction; Adventure; Mystery,2026-03-08,Science Fiction
+687163,movie,Project Hail Mary,2026-03-09,24.9038,9.3,3,en,Science Fiction; Adventure; Mystery,2026-03-08,Adventure
+687163,movie,Project Hail Mary,2026-03-09,24.9038,9.3,3,en,Science Fiction; Adventure; Mystery,2026-03-08,Mystery
+90937,tv,BEASTARS,2019-10-10,24.5054,8.4,1261,ja,Animation; Drama; Mystery; Crime,2026-03-08,Animation
+90937,tv,BEASTARS,2019-10-10,24.5054,8.4,1261,ja,Animation; Drama; Mystery; Crime,2026-03-08,Drama
+90937,tv,BEASTARS,2019-10-10,24.5054,8.4,1261,ja,Animation; Drama; Mystery; Crime,2026-03-08,Mystery
+90937,tv,BEASTARS,2019-10-10,24.5054,8.4,1261,ja,Animation; Drama; Mystery; Crime,2026-03-08,Crime
+131142,tv,Love Story,2026-02-12,23.2884,8.886,22,en,Drama,2026-03-08,Drama
+213306,tv,Cross,2024-11-14,22.1393,7.022,254,en,Crime; Drama; Mystery,2026-03-08,Crime
+213306,tv,Cross,2024-11-14,22.1393,7.022,254,en,Crime; Drama; Mystery,2026-03-08,Drama
+213306,tv,Cross,2024-11-14,22.1393,7.022,254,en,Crime; Drama; Mystery,2026-03-08,Mystery
+1214931,movie,Nuremberg,2025-11-06,22.1094,7.324,664,en,History; Drama,2026-03-08,History
+1214931,movie,Nuremberg,2025-11-06,22.1094,7.324,664,en,History; Drama,2026-03-08,Drama
+701387,movie,Bugonia,2025-10-23,21.7284,7.351,1571,en,Science Fiction; Thriller; Comedy,2026-03-08,Science Fiction
+701387,movie,Bugonia,2025-10-23,21.7284,7.351,1571,en,Science Fiction; Thriller; Comedy,2026-03-08,Thriller
+701387,movie,Bugonia,2025-10-23,21.7284,7.351,1571,en,Science Fiction; Thriller; Comedy,2026-03-08,Comedy
+1084244,movie,Toy Story 5,2026-06-17,20.7377,0.0,0,en,Animation; Family; Comedy; Adventure,2026-03-08,Animation
+1084244,movie,Toy Story 5,2026-06-17,20.7377,0.0,0,en,Animation; Family; Comedy; Adventure,2026-03-08,Family
+1084244,movie,Toy Story 5,2026-06-17,20.7377,0.0,0,en,Animation; Family; Comedy; Adventure,2026-03-08,Comedy
+1084244,movie,Toy Story 5,2026-06-17,20.7377,0.0,0,en,Animation; Family; Comedy; Adventure,2026-03-08,Adventure
+1631485,movie,Strangers in the Park,2026-02-19,20.0717,6.5,4,es,Comedy; Drama,2026-03-08,Comedy
+1631485,movie,Strangers in the Park,2026-02-19,20.0717,6.5,4,es,Comedy; Drama,2026-03-08,Drama
+1381027,movie,The Good Boy,2026-03-06,19.876,8.8,5,en,Thriller; Drama; Mystery; Horror,2026-03-08,Thriller
+1381027,movie,The Good Boy,2026-03-06,19.876,8.8,5,en,Thriller; Drama; Mystery; Horror,2026-03-08,Drama
+1381027,movie,The Good Boy,2026-03-06,19.876,8.8,5,en,Thriller; Drama; Mystery; Horror,2026-03-08,Mystery
+1381027,movie,The Good Boy,2026-03-06,19.876,8.8,5,en,Thriller; Drama; Mystery; Horror,2026-03-08,Horror
+1220564,movie,The Secret Agent,2025-07-23,19.8629,7.42,456,pt,Crime; Drama; Thriller,2026-03-08,Crime
+1220564,movie,The Secret Agent,2025-07-23,19.8629,7.42,456,pt,Crime; Drama; Thriller,2026-03-08,Drama
+1220564,movie,The Secret Agent,2025-07-23,19.8629,7.42,456,pt,Crime; Drama; Thriller,2026-03-08,Thriller
+1124566,movie,Sentimental Value,2025-08-20,19.103,7.571,645,no,Drama,2026-03-08,Drama
+639988,movie,No Other Choice,2025-09-24,18.2638,7.559,786,ko,Comedy; Crime; Thriller,2026-03-08,Comedy
+639988,movie,No Other Choice,2025-09-24,18.2638,7.559,786,ko,Comedy; Crime; Thriller,2026-03-08,Crime
+639988,movie,No Other Choice,2025-09-24,18.2638,7.559,786,ko,Comedy; Crime; Thriller,2026-03-08,Thriller
+310935,tv,Girl from Nowhere: The Reset,2026-03-04,17.0027,9.3,3,th,Drama; Mystery,2026-03-08,Drama
+310935,tv,Girl from Nowhere: The Reset,2026-03-04,17.0027,9.3,3,th,Drama; Mystery,2026-03-08,Mystery
+1290432,movie,A Private Life,2025-09-27,16.282,5.8,98,fr,Crime; Mystery,2026-03-08,Crime
+1290432,movie,A Private Life,2025-09-27,16.282,5.8,98,fr,Crime; Mystery,2026-03-08,Mystery
+1242419,movie,Roofman,2025-10-08,15.5079,7.151,599,en,Crime; Comedy; Drama,2026-03-08,Crime
+1242419,movie,Roofman,2025-10-08,15.5079,7.151,599,en,Crime; Comedy; Drama,2026-03-08,Comedy
+1242419,movie,Roofman,2025-10-08,15.5079,7.151,599,en,Crime; Comedy; Drama,2026-03-08,Drama
+1208348,movie,Rental Family,2025-11-20,15.3135,7.789,538,en,Drama; Comedy,2026-03-08,Drama
+1208348,movie,Rental Family,2025-11-20,15.3135,7.789,538,en,Drama; Comedy,2026-03-08,Comedy
+1235746,movie,Dead of Winter,2025-09-23,14.2021,6.452,208,en,Thriller; Action,2026-03-08,Thriller
+1235746,movie,Dead of Winter,2025-09-23,14.2021,6.452,208,en,Thriller; Action,2026-03-08,Action
+1128377,movie,In Cold Light,2026-01-23,11.2022,5.967,15,en,Thriller; Crime,2026-03-08,Thriller
+1128377,movie,In Cold Light,2026-01-23,11.2022,5.967,15,en,Thriller; Crime,2026-03-08,Crime
+93166,tv,The Capture,2019-09-03,9.9061,7.8,276,en,Crime; Drama; Mystery,2026-03-08,Crime
+93166,tv,The Capture,2019-09-03,9.9061,7.8,276,en,Crime; Drama; Mystery,2026-03-08,Drama
+93166,tv,The Capture,2019-09-03,9.9061,7.8,276,en,Crime; Drama; Mystery,2026-03-08,Mystery
+254953,tv,Rooster,2026-03-08,5.9273,0.0,0,en,Comedy; Drama,2026-03-08,Comedy
+254953,tv,Rooster,2026-03-08,5.9273,0.0,0,en,Comedy; Drama,2026-03-08,Drama
+1451867,movie,Ghost Elephants,2026-02-27,0.6619,9.0,1,en,Documentary,2026-03-08,Documentary
