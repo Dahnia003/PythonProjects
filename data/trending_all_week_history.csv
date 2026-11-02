@@ -5095,3 +5095,103 @@ id,media_type,title,date,popularity,vote_average,vote_count,original_language,ge
 1286656,movie,I Play Rocky,2026-11-06,8.6687,0.0,0.0,en,Drama; History,2026-10-26
 2106,person,Walt Disney,,1.7523,,,,,2026-10-26
 2106,person,Walt Disney,,1.7523,,,,,2026-10-26
+456,tv,The Simpsons,1989-12-17,5702.8943,8.0,11128.0,en,Animation; Comedy,2026-11-02
+791523,movie,Wildwood,2026-10-19,1868.8143,8.672,135.0,en,Animation; Adventure; Fantasy,2026-11-02
+1058424,movie,Hope,2026-07-15,472.2096,6.784,429.0,ko,Science Fiction; Mystery; Action,2026-11-02
+969681,movie,Spider-Man: Brand New Day,2026-07-29,377.1888,8.479,6439.0,en,Science Fiction; Action; Adventure,2026-11-02
+247718,tv,MobLand,2025-03-30,330.1742,8.611,1148.0,en,Crime; Drama,2026-11-02
+247718,tv,MobLand,2025-03-30,330.1742,8.611,1148.0,en,Crime; Drama,2026-11-02
+1596275,movie,Drive - The Pretenders,2026-10-27,308.3646,7.579,82.0,de,Romance; Thriller,2026-11-02
+1507696,movie,Apocalypse Z: New World,2026-10-09,293.6031,6.048,63.0,es,Action; Thriller; Horror,2026-11-02
+4614,tv,NCIS,2003-09-23,276.9901,7.611,2605.0,en,Crime; Drama; Action & Adventure,2026-11-02
+213375,tv,VisionQuest,2026-10-13,261.0515,8.641,237.0,en,Sci-Fi & Fantasy; Drama,2026-11-02
+153312,tv,Tulsa King,2022-11-13,256.6342,8.314,2908.0,en,Crime; Drama; Comedy,2026-11-02
+1283515,movie,Verity,2026-09-30,236.8477,6.806,497.0,en,Mystery; Thriller,2026-11-02
+2190,tv,South Park,1997-08-13,203.1031,8.331,5238.0,en,Comedy; Animation,2026-11-02
+1514026,movie,Buddy,2026-08-27,201.9313,6.993,227.0,en,Horror; Comedy; Fantasy,2026-11-02
+1384216,movie,The Dog Stars,2026-08-26,189.6676,7.107,759.0,en,Action; Thriller; Science Fiction,2026-11-02
+120911,tv,The Terminal List,2022-06-30,186.9508,7.995,1318.0,en,Action & Adventure; Drama,2026-11-02
+95480,tv,Slow Horses,2022-04-01,176.4473,8.069,1106.0,en,Crime; Drama; Mystery,2026-11-02
+95480,tv,Slow Horses,2022-04-01,176.4473,8.069,1106.0,en,Crime; Drama; Mystery,2026-11-02
+96677,tv,Lupin,2021-01-08,165.4893,7.7,2766.0,fr,Crime; Drama; Mystery,2026-11-02
+1291595,movie,Insidious: Out of the Further,2026-08-19,159.0616,7.71,996.0,en,Horror; Thriller,2026-11-02
+1400940,movie,Clayface,2026-10-19,158.4535,7.454,328.0,en,Horror; Thriller; Science Fiction,2026-11-02
+1413,tv,American Horror Story,2011-10-05,155.5008,8.079,6280.0,en,Drama; Mystery; Sci-Fi & Fantasy,2026-11-02
+1571955,movie,Collision Course,2026-10-30,153.1008,6.893,28.0,es,Drama; Action; Crime,2026-11-02
+1571955,movie,Collision Course,2026-10-30,153.1008,6.893,28.0,es,Drama; Action; Crime,2026-11-02
+200875,tv,IT: Welcome to Derry,2025-10-26,150.8834,8.3,1764.0,en,Drama; Mystery,2026-11-02
+200875,tv,IT: Welcome to Derry,2025-10-26,150.8834,8.3,1764.0,en,Drama; Mystery,2026-11-02
+312359,tv,Dragon Ball Super: Beerus,2026-10-11,134.8644,9.64,375.0,ja,Animation; Action & Adventure; Sci-Fi & Fantasy,2026-11-02
+289517,tv,Dead-End Job,2026-10-30,130.7353,7.739,23.0,ko,Mystery,2026-11-02
+1148365,movie,Matchbox the Movie,2026-10-05,130.4047,7.628,572.0,en,Action; Comedy; Adventure,2026-11-02
+284833,tv,Avatar: Seven Havens,2026-10-09,129.6672,9.003,171.0,en,Animation; Action & Adventure; Sci-Fi & Fantasy; Family,2026-11-02
+259909,tv,Dexter: Resurrection,2025-07-13,129.2044,8.5,720.0,en,Crime; Drama; Mystery,2026-11-02
+259909,tv,Dexter: Resurrection,2025-07-13,129.2044,8.5,720.0,en,Crime; Drama; Mystery,2026-11-02
+97546,tv,Ted Lasso,2020-08-14,128.1472,8.366,2820.0,en,Drama; Comedy,2026-11-02
+1465063,movie,Forgotten Island,2026-09-10,126.4105,7.923,182.0,en,Animation; Adventure; Fantasy; Comedy; Family,2026-11-02
+1148365,movie,Matchbox the Movie,2026-10-05,126.0417,7.623,571.0,en,Action; Comedy; Adventure,2026-11-02
+1780005,movie,Surviving Hurricane Otis,2026-10-23,124.392,7.509,106.0,es,Drama,2026-11-02
+1003596,movie,Avengers: Doomsday,2026-12-16,117.9732,0.0,0.0,en,Science Fiction; Action; Adventure,2026-11-02
+1003596,movie,Avengers: Doomsday,2026-12-16,117.9732,0.0,0.0,en,Science Fiction; Action; Adventure,2026-11-02
+1727734,movie,Ali G: Who Iz I?,2026-10-22,117.5764,5.823,113.0,en,Comedy,2026-11-02
+45790,tv,JoJo's Bizarre Adventure,2012-10-06,116.0952,8.552,1697.0,ja,Animation; Action & Adventure; Sci-Fi & Fantasy,2026-11-02
+45790,tv,JoJo's Bizarre Adventure,2012-10-06,116.0952,8.552,1697.0,ja,Animation; Action & Adventure; Sci-Fi & Fantasy,2026-11-02
+1422041,movie,LA BOLA NEGRA,2026-09-25,115.376,8.0,162.0,es,Drama; War,2026-11-02
+1422041,movie,LA BOLA NEGRA,2026-09-25,115.376,8.046,162.0,es,Drama; War,2026-11-02
+220542,tv,The Apothecary Diaries,2023-10-22,107.1493,8.656,696.0,ja,Animation; Mystery; Drama,2026-11-02
+1423191,movie,Resident Evil,2026-09-16,105.3982,7.315,1117.0,en,Horror; Science Fiction; Adventure,2026-11-02
+292741,tv,Nocturne,2026-10-29,100.559,7.4,25.0,en,Crime; Drama; Mystery,2026-11-02
+1288445,movie,Mutiny,2026-08-19,95.4435,7.657,1009.0,en,Action; Thriller,2026-11-02
+1290418,movie,The Cycle,2026-09-24,91.1546,6.808,104.0,en,Horror; Thriller; Mystery,2026-11-02
+290856,tv,Marshals,2026-03-01,90.4085,7.97,420.0,en,Drama; Crime; Action & Adventure,2026-11-02
+105248,tv,Cyberpunk: Edgerunners,2022-09-13,88.7053,8.508,2119.0,en,Animation; Action & Adventure; Sci-Fi & Fantasy; Crime,2026-11-02
+1153576,movie,Street Fighter,2026-10-13,88.6965,6.316,209.0,en,Action; Fantasy,2026-11-02
+1503762,movie,Sense and Sensibility,2026-09-23,88.471,7.345,119.0,en,Drama; Romance; History,2026-11-02
+1503762,movie,Sense and Sensibility,2026-09-23,88.471,7.345,119.0,en,Drama; Romance; History,2026-11-02
+1377237,movie,Runner,2026-09-07,88.1688,8.294,783.0,en,Action; Comedy,2026-11-02
+126027,tv,Ghosts,2021-10-07,87.757,8.1,510.0,en,Comedy; Sci-Fi & Fantasy,2026-11-02
+126027,tv,Ghosts,2021-10-07,87.757,8.1,510.0,en,Comedy; Sci-Fi & Fantasy,2026-11-02
+1400837,movie,Other Mommy,2026-10-07,87.5008,5.8,182.0,en,Horror,2026-11-02
+1765072,movie,You Can See Everything,2026-10-16,84.4981,8.9,76.0,en,Documentary,2026-11-02
+300146,tv,Where the Mask Ends,2026-10-16,83.0177,8.2,6.0,zh,Drama,2026-11-02
+1108427,movie,Moana,2026-07-08,82.5947,7.484,1003.0,en,Family; Fantasy; Comedy; Adventure,2026-11-02
+687163,movie,Project Hail Mary,2026-03-15,82.0371,8.6,8641.0,en,Science Fiction; Adventure,2026-11-02
+303745,tv,Love in Disguise,2026-10-19,71.7558,9.3,39.0,ko,Comedy; Drama; Crime; Action & Adventure,2026-11-02
+1083381,movie,Backrooms,2026-05-27,67.9939,6.997,3970.0,en,Horror; Mystery; Science Fiction,2026-11-02
+1083381,movie,Backrooms,2026-05-27,67.9939,6.997,3970.0,en,Horror; Mystery; Science Fiction,2026-11-02
+1248832,movie,Digger,2026-09-28,66.7698,7.5,491.0,en,Comedy; Drama,2026-11-02
+289892,tv,Helluva Boss,2020-10-31,66.4871,7.609,124.0,en,Animation; Comedy; Drama; Sci-Fi & Fantasy,2026-11-02
+1195803,movie,Wicker,2026-10-21,65.8487,7.6,21.0,en,Romance; Fantasy; Comedy,2026-11-02
+1248832,movie,Digger,2026-09-28,65.6477,7.5,491.0,en,Comedy; Drama,2026-11-02
+95350,tv,Lanterns,2026-08-16,61.9585,8.206,845.0,en,Drama; Mystery; Sci-Fi & Fantasy,2026-11-02
+37854,tv,One Piece,1999-10-20,61.9359,8.756,5628.0,ja,Action & Adventure; Comedy; Animation,2026-11-02
+1375441,movie,Primetime,2026-09-23,56.4555,6.848,256.0,en,Drama; Thriller,2026-11-02
+1789549,movie,The Birthday​ Gift​,2026-10-30,50.1073,7.063,8.0,de,Comedy,2026-11-02
+304452,tv,The Lament of Autumn,2026-10-12,49.2642,8.0,2.0,zh,Drama,2026-11-02
+73223,tv,Black Clover,2017-10-03,49.0251,8.531,2284.0,ja,Animation; Action & Adventure; Sci-Fi & Fantasy,2026-11-02
+1477104,movie,Shaun the Sheep: The Beast of Mossy Bottom,2026-09-17,39.8503,7.417,48.0,en,Animation; Science Fiction; Comedy,2026-11-02
+1300968,movie,The Hunger Games: Sunrise on the Reaping,2026-11-18,36.8066,0.0,0.0,en,Science Fiction; Action; Adventure,2026-11-02
+1212763,movie,Evil Dead Burn,2026-07-07,36.5858,7.596,1882.0,en,Horror,2026-11-02
+314360,tv,YAGA,2026-10-23,35.1595,7.1,16.0,en,Drama; Sci-Fi & Fantasy; Mystery,2026-11-02
+314360,tv,YAGA,2026-10-23,35.1595,7.1,16.0,en,Drama; Sci-Fi & Fantasy; Mystery,2026-11-02
+316702,tv,Final Table,2026-10-24,34.3416,8.4,10.0,ko,Drama,2026-11-02
+47663,tv,The Ark,2023-02-01,33.63,6.529,188.0,en,Sci-Fi & Fantasy; Mystery,2026-11-02
+313699,tv,Balaraw: Blood Island,2026-10-29,30.8902,7.3,7.0,tl,Mystery; Drama,2026-11-02
+1380417,movie,By Any Means,2026-09-02,30.6242,6.6,86.0,en,Thriller; History; Crime; Drama,2026-11-02
+307478,tv,The Perfect Lie,2026-10-30,27.8188,8.5,2.0,ko,Drama; Crime; Mystery,2026-11-02
+656908,movie,Ramayana: Rise of a Legend,2026-11-04,27.5598,10.0,1.0,hi,Fantasy; Action; Adventure,2026-11-02
+232018,tv,Has Fallen,2024-09-23,26.2788,7.007,138.0,fr,Action & Adventure; War & Politics,2026-11-02
+334700,tv,The Gift of Deceit,2026-10-28,26.2343,0.0,0.0,pt,Drama,2026-11-02
+334700,tv,The Gift of Deceit,2026-10-28,26.2343,0.0,0.0,pt,Drama,2026-11-02
+1198654,movie,Bad Apples,2026-09-10,26.0259,6.887,141.0,en,Comedy; Thriller,2026-11-02
+387,tv,SpongeBob SquarePants,1999-05-01,24.3924,7.72,3298.0,en,Animation; Comedy; Family,2026-11-02
+387,tv,SpongeBob SquarePants,1999-05-01,24.3924,7.72,3298.0,en,Animation; Comedy; Family,2026-11-02
+1165369,movie,De Gaulle: Liberté,2026-06-26,23.9768,7.8,214.0,fr,History; Drama; War,2026-11-02
+321221,tv,Minimum Wage,2026-10-26,21.9648,7.9,8.0,en,Comedy,2026-11-02
+1117898,movie,The Cat in the Hat,2026-11-04,21.0432,7.7,3.0,en,Animation; Comedy; Adventure; Fantasy; Family,2026-11-02
+1284186,movie,Sacrifice,2026-04-09,20.8763,5.289,114.0,en,Adventure; Comedy; Action,2026-11-02
+1567605,movie,Ebenezer,2026-11-11,20.3507,0.0,0.0,en,Fantasy; Comedy,2026-11-02
+891621,movie,Wild Horse Nine,2026-10-30,18.6853,8.7,9.0,en,Comedy; Crime; Thriller,2026-11-02
+1165366,movie,De Gaulle: Résistance,2026-06-03,17.1525,7.8,265.0,fr,History; Drama; War,2026-11-02
+1286656,movie,I Play Rocky,2026-11-06,11.2715,0.0,0.0,en,Drama; History,2026-11-02
+1483525,movie,Possible Love,2026-09-23,9.8896,7.9,12.0,ko,Drama,2026-11-02
